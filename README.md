@@ -1,7 +1,7 @@
 # generator-cycle
 
 Yeoman generator for creating projects with Cycle.js
-Stack: ES6, Cycle.js, Babel, Webpack, UglifyJSPlugin, CopyWebpackPlugin, Webpack-dev-server  
+Stack: ES6, Cycle.js, Xstream, Babel, Webpack, UglifyJSPlugin, CopyWebpackPlugin, Webpack-dev-server  
 
 __INSTRUCTIONS__
 
